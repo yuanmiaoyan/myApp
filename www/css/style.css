@@ -1,0 +1,32 @@
+/* Empty. Add your own CSS if you like */
+.box img{
+  width: 100%;
+}
+.col-offset-3{
+  margin-left: 3.3%;
+}
+.col-45{
+  width: 45%;
+}
+.item img{
+  width: 100%;
+  display: block
+}
+.index .item{
+  float: left;
+  margin-bottom: 15px;
+}
+.index-title{
+  text-align: center;
+  color: #666;
+}
+.index-detail img{
+  width: 100%;
+}
+.index h4{
+  font-size: 22px;
+  color: #4b8bf4;
+}
+.index h5{
+  font-size: 18px;
+}
