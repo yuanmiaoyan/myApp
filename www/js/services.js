@@ -58,6 +58,8 @@ angular.module('starter.services', [])
     name:"Shirt",
     price:"$81",
     img: "./img/1.jpg",
+    img1: "./img/1.1.jpg",
+    img2: "./img/1.2.jpg",
   }, {
     id: 1,
     name:"Shirt 1",
